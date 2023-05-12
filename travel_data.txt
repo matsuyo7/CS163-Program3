@@ -1,0 +1,502 @@
+asheville|north carolina, usa|biltmore estate|spring and fall|car or shuttle|largest privately-owned house in the us with stunning gardens and winery
+aspen|colorado, usa|ski resorts|winter|car or shuttle|popular ski destination with world-class resorts and picturesque mountain views.
+atlanta|georgia, usa|georgia aquarium|anytime|foot or shuttle|one of the largest aquariums in the world with a variety of aquatic life
+charleston|south carolina, usa|rainbow row|spring and fall|foot|historic residential area with colorful houses
+chicago|illinois, usa|navy pier|summer|foot or bike|popular tourist destination with restaurants, shops, and entertainment
+grand canyon|arizona, usa|south rim|spring and fall|car or shuttle|breathtaking natural wonder and popular hiking destination
+honolulu|hawaii, usa|diamond head|anytime|hike|volcanic tuff cone with a popular hiking trail and stunning views of the pacific ocean
+las vegas|nevada, usa|the strip|year-round|car or bus|famous for its casinos, hotels, and entertainment
+los angeles|california, usa|griffith observatory|year-round|car|offers panoramic views of the city and has an astronomy museum
+memphis|tennessee, usa|graceland|anytime|car or shuttle|former home of elvis presley and museum dedicated to his life and music
+mount rushmore|south dakota, usa|mount rushmore national memorial|summer|car or shuttle|monument featuring the faces of us presidents carved into a mountain
+nashville|tennessee, usa|country music hall of fame|year-round|walkable|showcases the history of country music and its artists.
+new york city|new york, usa|central park|spring or fall|walkable|large urban park with scenic views and diverse activities
+orlando|florida, usa|walt disney world|anytime|car or shuttle|popular theme park destination for families
+philadelphia|pennsylvania, usa|independence hall|anytime|foot|historic building where the declaration of independence was signed.
+portland|oregon, usa|powell's city of books|year-round|walkable|one of the largest independent bookstores in the world
+san antonio|texas, usa|the alamo|anytime|foot or bike|historic mission and symbol of texas independence
+san diego|california, usa|san diego zoo|anytime|car or shuttle|world-renowned zoo with a diverse collection of animals
+san francisco|california, usa|alcatraz island|anytime|boat|former federal prison with guided tours and scenic views of the city
+seattle|washington, usa|space needle|summer|foot or shuttle|observation tower with panoramic views of the city and surrounding area
+washington dc|district of columbia, usa|national mall|spring and fall|walkable|large park with iconic landmarks and monuments
+yellowstone|wyoming, usa|old faithful|summer|car|famous geyser that erupts every 90 minutes
+portland|maine, usa|portland head light|summer|car|historic lighthouse with scenic views of the atlantic ocean
+mackinaw city|michigan, usa|mackinac island|summer|boat|car-free island with historic architecture and horse-drawn carriages
+st. augustine|florida, usa|castillo de san marcos|anytime|foot or bike|historic spanish fortress and national monument
+moab|utah, usa|arches national park|spring and fall|car or shuttle|park with natural sandstone arches and rock formations
+atlantic city|new jersey, usa|boardwalk|summer|foot or bike|famous boardwalk with casinos, shops, and restaurants
+rapid city|south dakota, usa|crazy horse memorial|summer|car or shuttle|monument under construction dedicated to native american culture
+charlotte|north carolina, usa|carowinds|summer|car or shuttle|theme park with roller coasters and water rides
+niagara falls|new york, usa|niagara falls state park|summer|car or shuttle|state park with stunning views of the famous waterfalls
+santa fe|new mexico, usa|santa fe plaza|spring and fall|foot|historic plaza with native american and spanish influences
+outer banks|north carolina, usa|cape hatteras lighthouse|summer|car|tall lighthouse with scenic views of the atlantic ocean.
+bar harbor|maine, usa|acadia national park|summer|car or shuttle|park with scenic views of the atlantic ocean and mountains
+cleveland|ohio, usa|rock and roll hall of fame|anytime|foot|museum dedicated to the history and evolution of rock and roll music
+anchorage|alaska, usa|denali national park|summer|car or shuttle|park with the highest mountain peak in north america and diverse wildlife
+jackson|wyoming, usa|grand teton national park|summer|car or shuttle|park with stunning mountain views and recreational activities
+corpus christi|texas, usa|padre island national seashore|spring and fall|car|longest undeveloped barrier island in the world with stunning beaches and wildlife
+sedona|arizona, usa|chapel of the holy cross|anytime|car|stunning chapel built into the red rocks with scenic views of the surrounding area
+napa|california, usa|napa valley|spring and fall|car or bike|famous wine region with scenic views and vineyard tours
+pittsburgh|pennsylvania, usa|pnc park|summer|foot or bike|historic baseball stadium and home of the pittsburgh pirates
+st. louis|missouri, usa|gateway arch|spring and fall|foot or bike|monument honoring the westward expansion of the united states with observation deck and museum
+new orleans|louisiana, usa|french quarter|spring and fall|foot or bike|historic district with vibrant nightlife, restaurants, and architecture.
+key west|florida, usa|ernest hemingway home and museum|anytime|foot|historic home of author ernest hemingway with resident cats
+jekyll island|georgia, usa|jekyll island historic district|spring and fall|bike or car|historic district with restored homes and the jekyll island club hotel
+palm springs|california, usa|coachella valley|spring and fall|car|famous desert valley with golf courses and luxurious resorts
+portsmouth|new hampshire, usa|strawbery banke museum|spring and fall|foot|outdoor museum showcasing historic homes and gardens
+savannah|georgia, usa|forsyth park|spring and fall|foot|historic park with iconic fountain and lush landscaping
+boston|massachusetts, usa|freedom trail|spring and fall|foot|2.5-mile trail through historic sites of the american revolution
+austin|texas, usa|south congress avenue|anytime|foot or bike|famous street with eclectic shops, restaurants, and music venues
+nantucket|massachusetts, usa|nantucket historic district|spring and fall|bike or car|historic district with cobblestone streets and preserved architecture
+annapolis|maryland, usa|maryland state house|anytime|foot|historic state house with colonial architecture and legislative chambers
+miami|florida, usa|art deco historic district|anytime|foot or bike|historic district with colorful art deco architecture and vibrant nightlife
+cape cod|massachusetts, usa|cape cod national seashore|spring and fall|car|scenic coastline with beaches and dunes
+phoenix|arizona, usa|heard museum|anytime|foot or bike|museum showcasing native american culture and art
+toronto|ontario, canada|cn tower|anytime|foot or public transit|tall tower with observation deck and restaurant
+niagara falls|ontario, canada|niagara falls|summer|car or public transit|famous waterfall and tourist destination
+jasper|alberta, canada|jasper national park|summer|car|famous national park with lakes, glaciers, and wildlife
+montreal|quebec, canada|old montreal|anytime|foot|historic district with cobblestone streets and architecture
+whistler|british columbia, canada|whistler blackcomb|winter|ski lift or gondola|famous ski resort with world-class slopes
+st. john's|newfoundland and labrador, canada|cape spear lighthouse|summer|car|easternmost point in north america with historic lighthouse
+calgary|alberta, canada|calgary stampede|summer|foot or public transit|famous rodeo and festival
+tofino|british columbia, canada|pacific rim national park|summer|car|national park with beaches, rainforests, and wildlife
+churchill|manitoba, canada|polar bear watching|fall|train or plane|opportunity to see polar bears in their natural habitat
+halifax|nova scotia, canada|peggy's cove|summer|car|famous lighthouse and scenic fishing village
+edmonton|alberta, canada|west edmonton mall|anytime|car or public transit|massive shopping and entertainment complex
+prince edward island|pei, canada|anne of green gables heritage place|summer|car|historic site based on famous novel
+regina|saskatchewan, canada|royal saskatchewan museum|anytime|foot or public transit|museum showcasing natural and human history of the province
+whitehorse|yukon, canada|yukon river|summer|boat|scenic river with views of wildlife and mountains
+winnipeg|manitoba, canada|the forks|summer|foot or public transit|historic site with markets, restaurants, and attractions
+kamloops|british columbia, canada|sun peaks resort|winter|ski lift or gondola|famous ski resort with slopes and trails for all levels of experience
+charlottetown|pei, canada|confederation centre of the arts|anytime|foot or public transit|arts and cultural center with theater, galleries, and exhibitions
+kelowna|british columbia, canada|okanagan lake|summer|boat or car|famous lake with beaches and wineries
+yellowknife|northwest territories, canada|aurora village|winter|bus or car|opportunity to see northern lights in the night sky
+stratford|ontario, canada|stratford festival|summer|foot or public transit|famous theater festival with shakespearean plays
+banff|alberta, canada|banff gondola|summer|gondola|scenic ride to the top of a mountain with views of banff national park
+thunder bay|ontario, canada|sleeping giant provincial park|summer|car|provincial park with hiking trails and views of lake superior
+vancouver|british columbia, canada|granville island|anytime|foot or public transit|island with markets, shops, and restaurants
+quebec city|quebec, canada|montmorency falls|summer|car or public transit|waterfall with zipline and suspension bridge attractions
+ottawa|ontario, canada|national gallery of canada|anytime|foot or public transit|art museum with canadian and international collections
+prince rupert|british columbia, canada|khutzeymateen grizzly bear sanctuary|summer|boat or plane|opportunity to see grizzly bears in their natural habitat
+saint john|new brunswick, canada|hopewell rocks|summer|car|rock formations with tide changes that reveal a beach at low tide
+playa del carmen|quintana roo, mexico|xcaret eco-archaeological park|anytime|car or public transit|park with cultural exhibits and natural attractions
+guadalajara|jalisco, mexico|hospicio cabanas|anytime|foot or public transit|historic building with murals by jose clemente orozco
+tulum|quintana roo, mexico|tulum ruins|anytime|car or public transit|mayan ruins with views of the caribbean sea
+merida|yucatan, mexico|paseo de montejo|anytime|foot or public transit|boulevard with historic mansions and monuments
+san miguel de allende|guanajuato, mexico|parroquia de san miguel arcangel|anytime|foot or public transit|historic church with neo-gothic facade
+puerto escondido|oaxaca, mexico|zicatela beach|anytime|car or public transit|popular surfing destination with big waves
+guanajuato|guanajuato, mexico|teatro juarez|anytime|foot or public transit|historic theater with ornate architecture
+cozumel|quintana roo, mexico|cozumel island|anytime|boat or tour|island with beaches, snorkeling and diving opportunities
+puebla|puebla, mexico|zocalo|anytime|foot or public transit|historic central square with cathedral and government buildings
+acapulco|guerrero, mexico|la quebrada|anytime|car or public transit|cliff divers jumping from heights of up to 40 meters
+cozumel|quintana roo, mexico|palancar beach|anytime|car or public transit|beach with crystal-clear waters for swimming and snorkeling
+morelia|michoacan, mexico|morelia cathedral|anytime|foot or public transit|historic cathedral with pink stone facade
+tijuana|baja california, mexico|tijuana cultural center|anytime|foot or public transit|art and cultural exhibits, including a museum, theater, and galleries
+puerto penasco|sonora, mexico|sandy beach|summer|car or public transit|popular beach destination with water sports and a lively nightlife
+oaxaca|oaxaca, mexico|templo de santo domingo de guzman|anytime|foot or public transit|baroque-style church with gold leaf interior and impressive carvings
+san luis potosi|san luis potosi, mexico|cascada de tamul|anytime|car or tour bus|picturesque waterfall and natural pool for swimming and relaxing
+cancun|quintana roo, mexico|isla mujeres|anytime|boat or ferry|island paradise with clear waters for swimming and snorkeling, and a small town with restaurants and shops
+mexico city|mexico|paseo de la reforma|anytime|foot or public transit|iconic boulevard with historic landmarks, monuments, and parks
+queretaro|queretaro, mexico|teatro de la republica|anytime|foot or public transit|historic theater with neoclassical architecture and important role in mexican history
+puerto vallarta|jalisco, mexico|los arcos|anytime|boat or tour|natural rock formations in the ocean with opportunities for snorkeling and diving
+san cristobal de las casas|chiapas, mexico|templo y ex convento de santo domingo|anytime|foot or public transit|historic church and convent with impressive baroque facade and ornate interior
+cabo san lucas|baja california sur, mexico|cabo pulmo national park|anytime|car or tour bus|protected marine reserve with diverse coral reef and marine life, and opportunities for snorkeling and diving.
+havana|la habana, cuba|malecon|anytime|foot or public transit|iconic seaside boulevard with stunning views and a vibrant atmosphere
+varadero|matanzas, cuba|varadero beach|summer|car or public transit|long stretch of white sand beach with clear water and various water sports
+trinidad|sancti spiritus, cuba|plaza mayor|anytime|foot or public transit|historic town square with colorful colonial architecture and live music performances
+santiago de cuba|santiago de cuba, cuba|castillo del morro|anytime|foot or public transit|17th century fortress with stunning views of the bay and museum exhibits
+cienfuegos|cienfuegos, cuba|parque jose marti|anytime|foot or public transit|central park with historic architecture, including a theater and town hall
+baracoa|guantanamo, cuba|yunque national park|anytime|car or tour bus|lush rainforest with diverse flora and fauna, hiking trails, and waterfalls
+camaguey|camaguey, cuba|plaza san juan de dios|anytime|foot or public transit|picturesque town square with historic architecture, including a church and bell tower
+vinales|pinar del rio, cuba|valle de vinales|anytime|car or tour bus|scenic valley with mogotes (limestone hills), tobacco farms, and cave systems
+santa clara|villa clara, cuba|mausoleo del che guevara|anytime|foot or public transit|memorial to revolutionary leader ernesto "che" guevara, with museum exhibits and historic artifacts
+holguin|holguin, cuba|playa pesquero|summer|car or public transit|relaxing beach with crystal-clear water, white sand, and various water activities.
+remedios|villa clara, cuba|iglesia de san juan bautista|anytime|foot or public transit|historic church with ornate architecture and beautiful stained glass windows
+bayamo|granma, cuba|plaza del himno|anytime|foot or public transit|central town square with colonial architecture, including a cathedral and statue of cuban national hero, carlos manuel de cespedes
+caibarien|villa clara, cuba|malecon de caibarien|evenings|foot or public transit|picturesque seaside promenade with stunning views of the bay and sunset
+cayo coco|ciego de avila, cuba|cayo coco beach|winter|car or public transit|pristine white sand beach with turquoise water and snorkeling opportunities
+camajuani|villa clara, cuba|casa museo de la trova|evenings|foot or public transit|music venue and museum dedicated to traditional cuban trova music, with regular live performances
+sagua la grande|villa clara, cuba|teatro la caridad|anytime|foot or public transit|historic theater with ornate decor and regular cultural performances
+antigua|sacatepequez, guatemala|santa catalina arch|anytime|foot|iconic 17th-century arch and symbol of antigua, with panoramic views of the city and surrounding volcanoes
+panajachel|solola, guatemala|lake atitlan|anytime|car or public transit|stunning lake surrounded by volcanoes and mayan villages, with opportunities for boating and hiking
+chichicastenango|quiche, guatemala|mercado de chichicastenango|thursdays and sundays|foot|colorful open-air market with traditional textiles, crafts, and food
+flores|peten, guatemala|tikal national park|anytime|car or plane|ancient mayan ruins, including pyramids and temples, set amidst the jungle
+guatemala city|guatemala, guatemala|national palace|anytime|foot or public transit|historic palace with ornate neoclassical architecture, home to the offices of the guatemalan government.
+semuc champey|alta verapaz, guatemala|semuc champey natural monument|dry season|foot|natural limestone bridge with turquoise pools and waterfalls, surrounded by jungle
+quetzaltenango|quetzaltenango, guatemala|fuentes georginas|anytime|car or public transit|hot springs surrounded by lush vegetation, located at an elevation of 2,300 meters
+livingston|izabal, guatemala|siete altares|anytime|boat|seven waterfalls and natural pools, accessible only by boat through the tropical jungle
+coban|alta verapaz, guatemala|orquigonia|anytime|car or public transit|botanical garden with over 200 species of orchids, as well as other tropical plants and wildlife
+rio dulce|izabal, guatemala|castillo de san felipe|anytime|boat|17th-century spanish fort, located on a hilltop overlooking the rio dulce, with views of the jungle and waterway.
+panama city|panama, panama|panama canal|anytime|car or public transit|engineering marvel that connects the atlantic and pacific oceans, with a visitors' center and museum
+bocas del toro|bocas del toro, panama|red frog beach|dry season|boat|white sand beach with crystal clear water, and home to the endemic red poison dart frog
+boquete|chiriqui, panama|los quetzales trail|dry season|foot|hiking trail through the cloud forest, with stunning views and opportunities to see the resplendent quetzal
+san blas islands|comarca guna yala, panama|san blas islands|dry season|boat|group of over 300 islands, with crystal clear water, white sand beaches, and opportunities for snorkeling and diving
+chiriqui|chiriqui, panama|volcan baru national park|dry season|car or foot|tropical cloud forest and hiking trails, with views of the pacific and caribbean coasts from the summit of the dormant volcano.
+gamboa|panama, panama|soberania national park|anytime|car or boat|tropical rainforest with hiking trails, bird watching opportunities, and the chance to see monkeys and other wildlife
+isla taboga|panama, panama|isla taboga|anytime|boat|quaint island with beaches, hiking trails, and the historic san pedro church
+caracas|distrito capital, venezuela|avila national park|dry season|foot or cable car|tropical forest with hiking trails, waterfalls, and stunning views of the city below
+los roques|dependencias federales, venezuela|los roques archipelago national park|anytime|boat|group of islands with coral reefs, white sand beaches, and opportunities for snorkeling and diving
+merida|merida, venezuela|teleferico merida|anytime|cable car|cable car that takes you up to the highest point in venezuela for spectacular views of the andes mountains
+canaima|bolivar, venezuela|angel falls|wet season|plane or boat|the world's highest uninterrupted waterfall, located in the heart of the amazon rainforest
+margarita island|nueva esparta, venezuela|playa el agua|dry season|car or public transit|popular beach with crystal clear water, white sand, and palm trees, surrounded by restaurants and bars.
+caracas|distrito capital, venezuela|avila national park|dry season|foot or cable car|tropical forest with hiking trails, waterfalls, and stunning views of the city below
+los roques|dependencias federales, venezuela|los roques archipelago national park|anytime|boat|group of islands with coral reefs, white sand beaches, and opportunities for snorkeling and diving
+merida|merida, venezuela|teleferico merida|anytime|cable car|cable car that takes you up to the highest point in venezuela for spectacular views of the andes mountains
+canaima|bolivar, venezuela|angel falls|wet season|plane or boat|the world's highest uninterrupted waterfall, located in the heart of the amazon rainforest
+margarita island|nueva esparta, venezuela|playa el agua|dry season|car or public transit|popular beach with crystal clear water, white sand, and palm trees, surrounded by restaurants and bars.
+port-au-prince|ouest, haiti|musee du pantheon national haitien|anytime|car or public transit|museum dedicated to the history of haiti and its heroes, located in the heart of the capital city
+jacmel|sud-est, haiti|carnival of jacmel|february|foot or car|one of the most colorful and vibrant carnivals in haiti, featuring traditional music, dances, and costumes
+cap-haitien|nord, haiti|citadelle laferriere|anytime|foot or horseback|massive fortress built in the early 19th century to protect haiti's independence, located on a hill overlooking the city and offering stunning views
+labadee|nord, haiti|royal caribbean's private island|anytime|boat|private island owned by royal caribbean international, offering white sand beaches, water sports, and a zip-line over the ocean
+ile-a-vache|sud, haiti|ile-a-vache|anytime|boat|idyllic island with white sand beaches and crystal-clear water, surrounded by lush vegetation and offering plenty of opportunities for relaxation and exploration.
+san jose|san jose, costa rica|museo del oro precolombino|anytime|foot or public transit|museum dedicated to pre-columbian gold artifacts and the history of costa rica's indigenous cultures
+la fortuna|alajuela, costa rica|arenal volcano|dry season (december to april)|car or public transit|active volcano offering hiking trails, hot springs, and stunning views of the surrounding rainforest
+manuel antonio|puntarenas, costa rica|manuel antonio national park|dry season (december to april)|car or public transit|one of the most popular national parks in costa rica, home to white sand beaches, coral reefs, and abundant wildlife
+puerto viejo|limon, costa rica|playa negra|anytime|foot or bicycle|black sand beach popular for surfing and swimming, located in a laid-back caribbean town with a vibrant reggae culture
+monteverde|puntarenas, costa rica|monteverde cloud forest reserve|anytime|car or public transit|a unique ecosystem characterized by misty cloud forests, hanging bridges, and abundant wildlife, including many species of birds and monkeys.
+kingston|kingston, jamaica|bob marley museum|anytime|foot or public transit|museum dedicated to the life and music of reggae legend bob marley
+ocho rios|st. ann, jamaica|dunn's river falls|anytime|car or public transit|popular tourist destination featuring a stunning waterfall and a beach
+negril|westmoreland, jamaica|seven mile beach|anytime|foot or bicycle|famous for its white sand beaches and crystal-clear water, a great spot for swimming and snorkeling
+montego bay|st. james, jamaica|rose hall great house|anytime|car or public transit|a restored 18th-century plantation house known for its dark history of witchcraft and murder
+port antonio|portland, jamaica|blue lagoon|anytime|car or public transit|a natural, turquoise-colored lagoon surrounded by lush tropical vegetation, where visitors can swim or take a boat tour.
+granada|granada, nicaragua|isletas de granada|anytime|boat|a group of 365 small islands located in lake nicaragua, great for wildlife viewing and scenic tours
+leon|leon, nicaragua|catedral de leon|anytime|foot or public transit|a stunning cathedral, one of the largest in central america, known for its beautiful stained glass windows and murals
+masaya|masaya, nicaragua|volcan masaya national park|anytime|car or public transit|home to the active masaya volcano, offering stunning views of the crater and a chance to see lava at night
+san juan del sur|rivas, nicaragua|san juan del sur beach|november to april|car or public transit|a popular surfing destination with a lively atmosphere and stunning sunsets
+isla de ometepe|rivas, nicaragua|concepcion volcano|november to april|boat or ferry|an island formed by two volcanoes in lake nicaragua, with hiking trails and beautiful natural scenery.
+georgetown|demerara-mahaica, guyana|st. george's cathedral|anytime|foot or public transit|a beautiful anglican cathedral, one of the tallest wooden buildings in the world, with stunning stained glass windows
+kaieteur national park|potaro-siparuni, guyana|kaieteur falls|august to november|plane and foot|home to the majestic kaieteur falls, one of the highest single-drop waterfalls in the world, surrounded by lush rainforest
+linden|upper demerara-berbice, guyana|demerara river|anytime|boat or car|a bustling town situated along the demerara river, with opportunities for river tours and fishing
+rupununi savannah|upper takutu-upper essequibo, guyana|karanambu ranch|february to april|plane and car|a vast savannah region offering stunning landscapes and wildlife, with a chance to visit the karanambu ranch and learn about conservation efforts
+annai|upper takutu-upper essequibo, guyana|iwokrama rainforest|may to october|plane and foot|a small amerindian village serving as a gateway to the vast iwokrama rainforest, home to a diverse range of flora and fauna, and offering opportunities for birdwatching and hiking.
+medellin|antioquia, colombia|plaza botero|anytime|walk|visit the famous sculptures by fernando botero
+cartagena|bolivar, colombia|castillo san felipe de barajas|anytime|walk|explore the fortress and learn about the colonial history
+bogota|cundinamarca, colombia|museo del oro|anytime|walk|see the pre-columbian gold artifacts
+salento|quindio, colombia|valle de cocora|june to september|hike|enjoy the beautiful landscape of the andean valley
+san agustin|huila, colombia|parque arqueologico|july to october|walk|explore the pre-columbian ruins and sculptures
+santa marta|magdalena, colombia|tayrona national park|december to march|hike|discover the amazing beaches and natural wonders
+villa de leyva|boyaca, colombia|plaza mayor|anytime|walk|admire the colonial architecture and relax in the charming town square
+cali|valle del cauca, colombia|cristo rey|anytime|drive|enjoy the panoramic view of the city and visit the religious monument
+barichara|santander, colombia|camino real|september to december|hike|explore the colonial town and the ancient path
+san gil|santander, colombia|chicamocha canyon|december to march|drive|enjoy the breathtaking view of the canyon and practice adventure sports
+quito|pichincha, ecuador|mitad del mundo|november to january|flight|the equator line
+guayaquil|guayas, ecuador|malecon 2000|all year round|walk|riverfront promenade
+cuenca|azuay, ecuador|el cajas national park|june to september|hike|mountainous terrain
+cuenca|azuay, ecuador|el cajas national park|june to september|hike|mountainous terrain
+banos|tungurahua, ecuador|casa del arbol|all year round|drive|swing at the end of the world
+galapagos islands|galapagos, ecuador|charles darwin research station|january to may|cruise|wildlife conservation
+mindo|pichincha, ecuador|waterfall circuit|december to march|hike|tropical rainforest
+manta|manabi, ecuador|los frailes beach|june to september|drive|pristine beach
+puerto ayora|galapagos, ecuador|tortuga bay|january to may|boat|white sand beach
+ambato|tungurahua, ecuador|parque juan montalvo|all year round|walk|city park
+cusco|cusco, peru|machu picchu|may-august|plane/bus/train|ancient inca citadel, one of the new seven wonders of the world
+lima|lima, peru|miraflores|dec-feb|plane/bus|coastal neighbourhood, known for its beaches and paragliding
+arequipa|arequipa, peru|colca canyon|may-oct|bus|deep canyon with hiking trails and condor viewing
+iquitos|loreto, peru|amazon river|june-oct|plane/boat|largest city in the world inaccessible by road, gateway to the amazon rainforest
+puno|puno, peru|lake titicaca|june-aug|bus|highest navigable lake in the world, home to floating islands and traditional cultures
+trujillo|la libertad, peru|chan chan|dec-feb|plane/bus|pre-columbian adobe city, largest in south america
+cusco|cusco, peru|machu picchu|may-august|plane/bus/train|ancient inca citadel, one of the new seven wonders of the world
+lima|lima, peru|miraflores|dec-feb|plane/bus|coastal neighbourhood, known for its beaches and paragliding
+arequipa|arequipa, peru|colca canyon|may-oct|bus|deep canyon with hiking trails and condor viewing
+iquitos|loreto, peru|amazon river|june-oct|plane/boat|largest city in the world inaccessible by road, gateway to the amazon rainforest
+puno|puno, peru|lake titicaca|june-aug|bus|highest navigable lake in the world, home to floating islands and traditional cultures
+trujillo|la libertad, peru|chan chan|dec-feb|plane/bus|pre-columbian adobe city, largest in south america
+la paz|la paz, bolivia|tiwanaku archaeological site|april-october|bus|pre-columbian ruins
+santa cruz|santa cruz, bolivia|amboro national park|may-november|hiking|lush tropical forest
+uyuni|potosi, bolivia|salar de uyuni|january-march|4x4|stunning salt flats
+cochabamba|cochabamba, bolivia|cristo de la concordia|all year|cable car|giant statue with panoramic views
+sucre|chuquisaca, bolivia|dinosaur park|all year|walking|fascinating dinosaur tracks
+potosi|potosi, bolivia|cerro rico|may-october|mining tour|historical silver mine
+copacabana|la paz, bolivia|isla del sol|april-october|boat|scenic island on lake titicaca
+tarija|tarija, bolivia|vineyards|april-june|wine tour|delicious local wine
+riberalta|beni, bolivia|madidi national park|may-october|jungle trekking|amazing biodiversity
+trinidad|beni, bolivia|jesuit missions of chiquitos|all year|driving|beautiful colonial architecture.
+sao paulo|sao paulo, brazil|paulista avenue|year-round|taxi|popular shopping and entertainment district
+rio de janeiro|rio de janeiro, brazil|sugarloaf mountain|june-august|cable car|stunning views of the city and bay
+salvador|bahia, brazil|pelourinho historic center|january-march|walk|colonial architecture and vibrant street art
+brasilia|distrito federal, brazil|palacio da alvorada|april-june|car|modernist presidential palace designed by oscar niemeyer
+recife|pernambuco, brazil|boa viagem beach|september-november|bicycle|popular urban beach with white sand and clear water
+fortaleza|ceara, brazil|dragao do mar cultural center|year-round|bus|art exhibitions, live music, and movie screenings
+curitiba|parana, brazil|oscar niemeyer museum|may-july|tram|modern art and architecture museum designed by oscar niemeyer
+manaus|amazonas, brazil|amazon theatre|november-may|boat|ornate 19th-century opera house in the heart of the amazon rainforest
+belo horizonte|minas gerais, brazil|pampulha modern ensemble|august-october|taxi|unesco world heritage site showcasing modernist architecture
+florianopolis|santa catarina, brazil|joaquina beach|december-february|surfboard|popular surfing spot with consistent waves and stunning views
+asuncion|central, paraguay|parque nacional ybycui|april - september|car|a nature reserve with stunning waterfalls and hiking trails.
+encarnacion|itapua, paraguay|ruinas jesuiticas de jesus y trinidad|may - october|bus|a unesco world heritage site with beautiful ruins of a jesuit mission.
+filadelfia|boqueron, paraguay|fortin boqueron|november - february|car|a historic site of the chaco war with preserved trenches and bunkers.
+caacupe|cordillera, paraguay|basilica de nuestra senora de caacupe|december - february|bus|a major pilgrimage site and the largest church in paraguay.
+pilar|neembucu, paraguay|la santisima trinidad de parana|june - september|boat|a beautiful and remote jesuit mission located on the banks of the parana river.
+concepcion|concepcion, paraguay|la santisima trinidad de parana'imi|july - october|car|a well-preserved jesuit mission with beautiful frescoes and carvings.
+caazapa|caazapa, paraguay|reserva natural mbaracayu|april - september|car|a large nature reserve with hiking trails, waterfalls, and diverse wildlife.
+villa hayes|presidente hayes, paraguay|estancia la aurora|may - september|car|a beautiful and peaceful ranch with horseback riding and stunning landscapes.
+san alberto|alto paraguay, paraguay|parque nacional defensores del chaco|june - august|4x4|a vast and remote nature reserve with unique wildlife and stunning landscapes.
+ybycui|paraguari, paraguay|parque acuatico ybycui|november - february|car|a popular water park with pools, slides, and other attractions.
+santiago|santiago metropolitan region, chile|plaza de armas|all year|public transport|historic central square
+valparaiso|valparaiso, chile|ascensor artilleria|all year|walking|historic funicular
+pucon|araucania, chile|villarrica volcano|november to april|private car|active volcano hiking
+easter island|rapa nui, chile|moai statues|all year|guided tour|unesco world heritage site
+torres del paine|magallanes, chile|torres del paine national park|november to april|trekking|stunning mountain landscapes
+la serena|coquimbo, chile|elqui valley|september to may|car rental|vineyards and stargazing
+puerto varas|los lagos, chile|lake llanquihue|all year|biking|picturesque lakeshore
+san pedro de atacama|antofagasta, chile|valle de la luna|april to november|4x4 tour|moon-like landscapes
+chiloe|los lagos, chile|castro|november to march|public bus|colorful wooden churches
+punta arenas|magallanes, chile|strait of magellan|october to march|cruise|southernmost city in chile.
+buenos aires|buenos aires, argentina|plaza de mayo|all year|walk|historic square in the heart of the city
+mendoza|mendoza, argentina|valle de uco|february-may|car|famous wine region with scenic vineyards
+ushuaia|tierra del fuego, argentina|beagle channel|november-march|boat|scenic boat tour through the channel
+salta|salta, argentina|salinas grandes|april-september|car|vast salt flats with stunning views
+el calafate|santa cruz, argentina|perito moreno glacier|october-march|bus|spectacular glacier with guided tours
+iguazu|misiones, argentina|iguazu falls|september-november|walk|impressive waterfall system in a national park
+cordoba|cordoba, argentina|jesuit block and estancias|all year|walk|historic jesuit architecture and buildings
+bariloche|rio negro, argentina|nahuel huapi national park|december-march|hike|stunning mountain landscapes with hiking trails
+mar del plata|buenos aires, argentina|playa grande|january-february|swim|popular beach destination during summer months
+tucuman|tucuman, argentina|cerro san javier|april-september|car|scenic drive up a mountain with stunning views
+san carlos de bariloche|rio negro, argentina|nahuel huapi national park|spring, summer, fall|car|explore the crystal-clear lakes, green forests, and majestic andes mountains in this beautiful national park.
+iguazu|misiones, argentina|iguazu falls|summer, fall|bus|see the awe-inspiring power of nature as thousands of gallons of water cascade down these massive waterfalls.
+ushuaia|tierra del fuego, argentina|beagle channel|summer|boat|take a scenic boat tour through the beagle channel and spot sea lions, penguins, and other wildlife.
+salta|salta, argentina|salinas grandes|winter, spring|car|visit the incredible salt flats and take in the stunning views of this otherworldly landscape.
+mendoza|mendoza, argentina|wineries|summer, fall|bike|indulge in delicious wine and food while cycling through the beautiful vineyards of mendoza.
+puerto madryn|chubut, argentina|valdes peninsula|summer|car|go on a wildlife safari to see penguins, sea lions, and whales in their natural habitat.
+el calafate|santa cruz, argentina|perito moreno glacier|summer, fall|boat|experience the breathtaking beauty of this glacier and witness huge chunks of ice falling into the water.
+cordoba|cordoba, argentina|jesuit estancias|spring, fall|car|learn about the rich history and architecture of these unesco world heritage sites.
+tucuman|tucuman, argentina|tafi del valle|summer|car|escape the city heat and enjoy the cooler mountain climate of this picturesque valley.
+mar del plata|buenos aires, argentina|beaches|summer|bus|relax on the sandy beaches and take a dip in the refreshing atlantic ocean.
+qaqortoq|kujalleq, greenland|sermersooq|summer|hiking|known for its scenic hikes with breathtaking views of glaciers and fjords.
+ilulissat|qeqertalik, greenland|ilulissat icefjord|winter|dog sledding|one of the most visited tourist destinations in greenland, famous for its massive icebergs and dog sledding tours.
+tasiilaq|sermersooq, greenland|east greenland wildlife reserve|spring|wildlife watching|a perfect destination for wildlife enthusiasts, where you can spot muskoxen, polar bears, and arctic foxes in their natural habitat.
+nuuk|sermersooq, greenland|katuaq cultural center|year-round|cultural immersion|experience the rich inuit culture through music, art, and dance at this cultural center.
+kangerlussuaq|qeqqata, greenland|greenland ice sheet|summer|hiking|the second-largest ice sheet in the world, offering scenic hiking trails and a chance to witness the stunning beauty of ice formations.
+narsaq|kujalleq, greenland|qooroq icefjord|summer|boat tour|witness the beauty of icebergs up close on a boat tour of this stunning fjord.
+qasigiannguit|qeqertalik, greenland|aurora borealis|winter|northern lights|one of the best places in greenland to witness the aurora borealis.
+kulusuk|sermersooq, greenland|inuit village|summer|hiking|visit this small inuit village and experience the traditional way of life, while hiking through stunning landscapes.
+ittoqqortoormiit|sermersooq, greenland|east greenland national park|summer|wildlife watching|a remote and untouched wilderness that offers a chance to spot polar bears, walruses, and whales.
+nanortalik|kujalleq, greenland|unartoq hot springs|summer|relaxation|take a dip in the natural hot springs while enjoying the stunning views of the surrounding mountains and glaciers.
+reykjavik|capital region, iceland|hallgrimskirkja|all seasons|car|famous church with a view
+akureyri|northeast, iceland|godafoss waterfall|summer|bus|stunning waterfall with a folklore story
+vik|south, iceland|black sand beach|summer|car|unique volcanic sand beach with rock formations
+husavik|northeast, iceland|whale watching tour|summer|boat|great opportunity to see whales in their natural habitat
+skaftafell|south, iceland|vatnajokull glacier|winter|hiking|a breathtaking glacier hike experience
+hofn|east, iceland|aurora borealis|winter|car|witness the stunning northern lights
+borgarfjordur eystri|east, iceland| puffins colony|summer|hiking|get up close with puffins and hike around the area
+stykkisholmur|west, iceland|snaefellsnes peninsula|all seasons|car|explore the unique and diverse peninsula
+tokyo|tokyo, japan|tsukiji fish market|spring|walk|fresh sushi and seafood for breakfast
+kyoto|kyoto, japan|fushimi inari-taisha shrine|fall|hike|vibrant red torii gates along a forested trail
+sapporo|hokkaido, japan|snow festival|winter|ski|large snow sculptures and ice structures
+osaka|osaka, japan|dotonbori|summer|boat|nightlife and street food along the canal
+nagano|nagano, japan|jigokudani monkey park|winter|hike|hot springs and snow monkeys
+hiroshima|hiroshima, japan|peace memorial park|spring|walk|historic sites and monuments
+okinawa|okinawa, japan|beaches|summer|snorkel|clear blue waters and tropical fish
+kawagoe|saitama, japan|little edo|fall|walk|traditional architecture and street food
+nara|nara, japan|nara park|winter|walk|wild deer and ancient temples
+hakone|kanagawa, japan|mt. fuji views|autumn|cable car|onsen hot springs and scenic views
+seoul|seoul, korea|gyeongbokgung palace|spring, autumn|train|the largest palace in korea
+busan|busan, korea|haeundae beach|summer|bus|one of the most famous beaches in korea
+jeju|jeju island, korea|mount halla|summer|car|the highest mountain in south korea
+jeonju|north jeolla, korea|hanok village|spring, autumn|bus|a traditional korean village
+daegu|daegu, korea|donghwasa temple|spring, autumn|car|a beautiful temple complex in the mountains
+suwon|gyeonggi-do, korea|hwaesong fortress|spring, autumn|train|a well-preserved fortress from the joseon dynasty
+andong|north gyeongsang, korea|hahoe folk village|spring, autumn|bus|a traditional korean village with preserved houses from the joseon dynasty
+gyeongju|gyeongsangbuk-do, korea|bulguksa temple|spring, autumn|car|a temple complex with unesco world heritage status
+gangneung|gangwon-do, korea|gyeongpo beach|summer|train|a beautiful beach with clear waters
+jecheon|north chungcheong, korea|cheongpung lake|spring, autumn|car|a picturesque lake surrounded by mountains
+shanghai|shanghai, china|the bund|spring|flight|the bund is a famous waterfront in shanghai, known for its stunning views of the city skyline and the huangpu river.
+beijing|beijing, china|the great wall of china|autumn|train|the great wall of china is an iconic landmark that spans thousands of miles and is best explored during the cooler autumn months.
+guilin|guangxi, china|li river cruise|summer|boat|take a leisurely boat ride along the stunning li river in guilin during the warm summer months and take in the breathtaking scenery of the karst mountains and rice paddies.
+chengdu|sichuan, china|panda breeding center|spring|car|visit the panda breeding center in chengdu during the spring when the baby pandas are most active and playful.
+hong kong|hong kong, china|victoria peak|winter|tram|take the tram up to victoria peak in hong kong during the winter to enjoy panoramic views of the city and the harbor.
+xi'an|shaanxi, china|terracotta warriors|autumn|train|explore the ancient terracotta army in xi'an during the fall when the weather is cooler and the crowds are thinner.
+yangshuo|guangxi, china|west street|summer|bike|explore the charming west street in yangshuo by bike during the warm summer months, and enjoy local cuisine and shopping.
+suzhou|jiangsu, china|classical gardens|spring|boat|take a boat tour of the classical gardens in suzhou during the spring, when the flowers and trees are in full bloom.
+lijiang|yunnan, china|old town|autumn|flight|experience the ancient culture and architecture of lijiang's old town during the cooler autumn months.
+zhangjiajie|hunan, china|national forest park|summer|hiking|explore the stunning landscapes of zhangjiajie national forest park on foot during the summer, and witness the beauty of the quartz sandstone pillars and lush forests.
+ulaanbaatar|tuv province, mongolia|gorkhi-terelj national park|summer|car|a beautiful national park with stunning scenery and great hiking trails.
+erdenet|orkhon province, mongolia|erdenet mining corporation|all seasons|car|a copper and molybdenum mining company offering tours of their facilities.
+darkhan|darkhan-uul province, mongolia|khara-khorum museum|summer|car|a museum showcasing the history of mongolia's ancient capital, khara-khorum.
+khovd|khovd province, mongolia|khar us nuur national park|summer|4x4|a scenic national park with high peaks, glaciers, and lakes, great for trekking and camping.
+choibalsan|dornod province, mongolia|deertalker monument|all seasons|car|a monument dedicated to the mongolian leader, khorloogiin choibalsan, located in the town center.
+zamyn-ud|dornogovi province, mongolia|gobi desert|spring|camel|an iconic desert landscape of rolling sand dunes and stunning sunsets, best explored on camelback.
+ulaangom|uvs province, mongolia|khyargas lake|summer|car|a beautiful lake located in the remote western part of mongolia, perfect for fishing and camping.
+bulgan|bulgan province, mongolia|toikhon monastery|summer|car|a beautiful buddhist monastery with stunning views of the surrounding countryside.
+moron|khovsgol province, mongolia|khovsgol lake|summer|horse|a crystal-clear lake in the north of mongolia, surrounded by forests and mountains, ideal for horseback riding and hiking.
+bayankhongor|bayankhongor province, mongolia|ovoo jargalant hot spring|winter|car|a popular hot spring located in the scenic mountains of central mongolia.
+moscow|moscow oblast, russia|red square|all year|walk|historic site, architecture
+st. petersburg|leningrad oblast, russia|hermitage museum|summer|walk|art museum
+kazan|tatarstan, russia|kremlin|spring|walk|historic site, architecture
+sochi|krasnodar krai, russia|black sea beach|summer|swim, relax|beach resort
+novosibirsk|novosibirsk oblast, russia|zoo|spring|walk|animal exhibit
+yekaterinburg|sverdlovsk oblast, russia|church on the blood|all year|walk|historic site, architecture
+kaliningrad|kaliningrad oblast, russia|curonian spit national park|summer|hike|nature reserve
+vladivostok|primorsky krai, russia|golden horn bay|summer|boat ride|scenic views
+murmansk|murmansk oblast, russia|aurora borealis|winter|drive|northern lights
+suzdal|vladimir oblast, russia|suzdal kremlin|summer|walk|historic site, architecture
+tainan|taiwan|anping tree house|autumn-spring|car|anping tree house is a unique attraction where you can explore a historic building that has been overgrown by banyan trees.
+taipei|taiwan|national palace museum|all year|train|the national palace museum is a must-visit attraction for those interested in chinese art and culture.
+kaohsiung|taiwan|lotus pond|spring|bike|lotus pond is a scenic lake filled with lotus flowers, temples, and pagodas.
+yilan|taiwan|jimmy park|summer|car|jimmy park is a great place to visit in the summer, with a water park, swimming pool, and other water activities.
+hualien|taiwan|taroko gorge|all year|bus|taroko gorge is a stunning natural attraction with soaring cliffs, waterfalls, and winding paths.
+taichung|taiwan|rainbow village|all year|car|rainbow village is a colorful and whimsical attraction, with every inch of the village covered in art.
+pingtung|taiwan|kenting national park|all year|scooter|kenting national park is a popular attraction with beaches, hiking trails, and natural beauty.
+taoyuan|taiwan|window on china theme park|all year|car|window on china theme park is a fun attraction with rides, shows, and miniature versions of famous landmarks from around the world.
+hanoi|hanoi, vietnam|ho chi minh mausoleum|any season|plane|the mausoleum is the final resting place of ho chi minh, the father of modern vietnam
+hue|thua thien-hue, vietnam|imperial city|november to april|bus|this ancient city was once the capital of vietnam's nguyen dynasty
+hoi an|quang nam, vietnam|ancient town|february to may|bike|take a leisurely ride through the narrow streets and admire the beautiful yellow houses and temples
+sa pa|lao cai, vietnam|rice terraces|september to november|train|the stunning terraced rice paddies are a must-see when visiting vietnam
+da nang|da nang, vietnam|my khe beach|june to august|car|this beautiful beach is a popular destination for both locals and tourists
+nha trang|khanh hoa, vietnam|vinpearl land|any season|boat|an amusement park located on a beautiful island accessible by cable car
+can tho|can tho, vietnam|floating markets|november to february|boat|get a glimpse of local life and commerce on the mekong delta
+phu quoc|kien giang, vietnam|pearl farm|december to march|plane|learn about the process of cultivating pearls and take home some beautiful souvenirs
+ha long|ha long, vietnam|bay|april to june|cruise|explore the stunning limestone formations and hidden caves of this unesco world heritage site.
+luang prabang|luang prabang province, laos|kuang si waterfall|november to february|car or motorbike|beautiful cascading waterfalls with turquoise water and surrounded by lush green forest
+vientiane|vientiane province, laos|pha that luang|any time|tuk-tuk or taxi|a famous golden stupa and a symbol of laos
+pakse|champasak province, laos|wat phu|november to february|car or motorbike|an ancient khmer temple complex, a unesco world heritage site
+plain of jars|xieng khouang province, laos|plain of jars|november to february|car or motorbike|a mysterious archaeological site with thousands of large stone jars scattered around the landscape
+nong khiaw|luang prabang province, laos|nam ou river|november to february|boat|a scenic boat ride through the stunning karst mountains and traditional villages
+don det|si phan don, laos|4000 islands|november to february|boat|a peaceful island with beautiful waterfalls and an opportunity to spot the rare irrawaddy dolphins in the mekong river
+muang ngoi|luang namtha province, laos|nam ou river|november to february|boat|a charming village surrounded by scenic mountains and accessible only by boat
+savannakhet|savannakhet province, laos|heuan hin|any time|tuk-tuk or taxi|an ancient khmer temple complex with impressive carvings and ruins
+thakhek|khammouane province, laos|konglor cave|november to february|car or motorbike|a stunning 7.5km-long cave system with a river running through it and beautiful stalactites and stalagmites
+bolaven plateau|champasak province, laos|waterfalls|november to february|car or motorbike|a beautiful region with many waterfalls, coffee plantations, and scenic drives.
+siem reap|siem reap province, cambodia|angkor wat|november to february|plane|famous temple complex with intricate carvings and historical significance
+phnom penh|phnom penh province, cambodia|royal palace|november to february|tuk-tuk|impressive palace complex with gardens and silver pagoda
+kampot|kampot province, cambodia|bokor hill station|november to march|car|former french colonial hill station with scenic views and abandoned buildings
+koh rong|preah sihanouk province, cambodia|beaches|november to april|ferry|picturesque island with white sand beaches and clear blue waters
+battambang|battambang province, cambodia|bamboo train|november to february|tuk-tuk|unique experience of riding on a bamboo platform through the countryside
+koh ker|preah vihear province, cambodia|koh ker temple|november to february|car|remote temple complex with ancient ruins and scenic views
+kep|kep province, cambodia|crab market|november to february|tuk-tuk|famous seafood market with fresh crab and other local delicacies
+angkor thom|siem reap province, cambodia|bayon temple|november to february|bike|impressive temple complex with stone faces and intricate carvings
+bangkok|n/a, thailand|grand palace|nov-feb|flight|visit the former residence of the king of thailand and see its stunning architecture and design
+chiang mai|n/a, thailand|wat phra that doi suthep|nov-feb|flight|visit a stunning buddhist temple located on a mountain with incredible views of chiang mai city
+phuket|n/a, thailand|phi phi islands|nov-mar|boat|relax on pristine beaches, snorkel, and take in the beauty of the surrounding limestone cliffs
+krabi|n/a, thailand|railay beach|nov-mar|boat|enjoy one of thailand's most picturesque beaches, surrounded by towering limestone cliffs
+ayutthaya|n/a, thailand|ayutthaya historical park|nov-feb|train|explore the ancient ruins and temples of the former capital of siam
+sukhothai|n/a, thailand|sukhothai historical park|nov-feb|flight|see the stunning ruins and temples of the ancient city of sukhothai, a unesco world heritage site
+koh samui|n/a, thailand|ang thong national marine park|nov-mar|boat|explore a pristine marine park with coral reefs, hidden lagoons, and stunning beaches
+pai|n/a, thailand|pai canyon|nov-feb|bus|hike through a maze of narrow canyons and stunning rock formations
+kanchanaburi|n/a, thailand|bridge over the river kwai|nov-feb|train|visit the famous bridge over the river kwai, a poignant reminder of world war ii history
+chiang rai|n/a, thailand|white temple|nov-feb|flight|visit the stunning and unique white temple, an intricate buddhist temple with a modern twist on traditional thai design.
+yangon|yangon region, myanmar|shwedagon pagoda|all seasons|bus|a stunning golden pagoda that is the most sacred site for buddhists in myanmar.
+mandalay|mandalay region, myanmar|mandalay hill|all seasons|hiking|a scenic hill where visitors can enjoy panoramic views of the city.
+bagan|mandalay region, myanmar|bagan temples|dry season|bicycle|an ancient city with over 2,000 temples and pagodas, making it a popular destination for history and architecture enthusiasts.
+inle lake|shan state, myanmar|inle lake|dry season|boat|a serene lake surrounded by mountains, floating villages, and unique leg-rowing fishermen.
+ngapali beach|rakhine state, myanmar|ngapali beach|dry season|flight|a beautiful beach with crystal-clear water and white sand, perfect for sunbathing and water sports.
+hpa-an|kayin state, myanmar|kyauk ka lat pagoda|all seasons|motorbike|a limestone karst formation with a pagoda built on top, offering stunning views of the surrounding countryside.
+kyaiktiyo|mon state, myanmar|golden rock|all seasons|bus|a huge boulder covered in gold leaf, perched on the edge of a cliff and held in place by a hair of buddha.
+pyin oo lwin|mandalay region, myanmar|national kandawgyi gardens|all seasons|car|a beautiful botanical garden with many different types of flowers, trees, and birds.
+mrauk u|rakhine state, myanmar|mrauk u temples|dry season|boat|an ancient city with unique temples and pagodas, and a fascinating history that dates back over 500 years.
+putao|kachin state, myanmar|putao valley|dry season|trekking|a remote and unspoiled region surrounded by snow-capped mountains, with many opportunities for trekking and wildlife spotting.
+kuala lumpur|federal territory, malaysia|petronas twin towers|any season|train|iconic landmark with stunning views
+george town|penang, malaysia|street art|any season|walk|charming city with unique street art
+langkawi|kedah, malaysia|pantai cenang beach|dry season|car|beautiful beach with crystal clear water and palm trees
+kuching|sarawak, malaysia|sarawak cultural village|wet season|bus|learn about the indigenous culture and traditions
+melaka city|melaka, malaysia|jonker street night market|any season|walk|vibrant night market with delicious food and interesting souvenirs
+cameron highlands|pahang, malaysia|tea plantations|dry season|hike|stunning views of the rolling hills covered in tea plantations
+taman negara|pahang, malaysia|canopy walkway|dry season|boat and hike|explore one of the oldest rainforests in the world
+kota kinabalu|sabah, malaysia|mount kinabalu|dry season|climb|challenging but rewarding climb with breathtaking views
+putrajaya|wilayah persekutuan, malaysia|putra mosque|any season|walk|beautiful mosque with unique pink dome and stunning architecture
+langkawi|kedah, malaysia|underwater world langkawi|wet season|boat and walk|explore the marine life of malaysia
+sydney|new south wales, australia|sydney opera house|any season|flight|an iconic performing arts center with beautiful views of the harbor
+melbourne|victoria, australia|great ocean road|spring or fall|road trip|a scenic coastal drive with beautiful natural attractions along the way
+cairns|queensland, australia|great barrier reef|summer|boat|one of the world's most beautiful natural wonders, home to a diverse range of marine life
+perth|western australia, australia|rottnest island|summer|boat|a beautiful island with crystal-clear waters and friendly quokkas
+hobart|tasmania, australia|salamanca market|summer or fall|walk|a vibrant outdoor market selling local produce, handmade crafts, and more
+darwin|northern territory, australia|kakadu national park|dry season (may-october)|drive|a beautiful park filled with waterfalls, wildlife, and ancient rock art
+adelaide|south australia, australia|barossa valley|fall|drive|a beautiful wine region with plenty of vineyards to explore
+broome|western australia, australia|cable beach|winter|drive|a stunning beach with white sand and turquoise waters, perfect for relaxing and watching the sunset
+canberra|australian capital territory, australia|parliament house|any season|walk|the seat of australia's government with a beautiful modern design and interesting history
+brisbane|queensland, australia|brisbane botanic gardens|spring|walk|a peaceful botanical garden with a wide variety of plants and a beautiful lake.
+goa|goa, india|anjuna beach|november to february|plane|popular tourist destination known for its beaches and nightlife
+jaipur|rajasthan, india|hawa mahal|october to march|train|beautiful palace known for its intricate architecture
+varanasi|uttar pradesh, india|varanasi ghats|october to march|train|one of the oldest inhabited cities in the world, known for its spiritual significance and the river ganges
+munnar|kerala, india|tea gardens|june to september|car|famous for its tea plantations and scenic views
+agra|uttar pradesh, india|taj mahal|october to march|train|one of the seven wonders of the world and a symbol of love
+jaisalmer|rajasthan, india|jaisalmer fort|october to march|car|famous for its sandstone fort and desert landscapes
+darjeeling|west bengal, india|darjeeling himalayan railway|april to june and september to december|train|known for its tea plantations and scenic mountain views
+alleppey|kerala, india|backwaters|november to february|boat|famous for its serene backwaters and houseboat rides
+udaipur|rajasthan, india|city palace|october to march|car|known for its beautiful lakes and palaces
+amritsar|punjab, india|golden temple|november to march|plane|a holy site for sikhs and a beautiful example of religious architecture.
+tehran|tehran province, iran|golestan palace|spring|plane|golestan palace is a masterpiece of the qajar era and a must-visit attraction in tehran.
+isfahan|isfahan province, iran|naqsh-e jahan square|fall|car|naqsh-e jahan square is a unesco world heritage site and one of the largest squares in the world.
+mashhad|razavi khorasan province, iran|imam reza shrine|summer|bus|the imam reza shrine is the largest mosque in the world by dimension and a sacred site for shia muslims.
+shiraz|fars province, iran|persepolis|spring|car|persepolis is an ancient city and unesco world heritage site known for its impressive ruins.
+yazd|yazd province, iran|jameh mosque of yazd|fall|train|the jameh mosque of yazd is one of the oldest mosques in iran and a significant example of persian architecture.
+kashan|isfahan province, iran|tabatabaei house|summer|car|tabatabaei house is a beautiful traditional persian house with stunning architecture and exquisite design.
+kerman|kerman province, iran|shazdeh garden|spring|car|shazdeh garden is a persian garden with a unique and charming design, and a popular spot for locals and tourists.
+gorgan|golestan province, iran|golestan national park|fall|hiking|golestan national park is a natural paradise with stunning landscapes, diverse wildlife, and hiking trails for all levels.
+ahvaz|khuzestan province, iran|chogha zanbil|summer|car|chogha zanbil is an ancient elamite complex and unesco world heritage site with impressive ziggurats and other structures.
+bandar abbas|hormozgan province, iran|hormuz island|winter|boat|hormuz island is a colorful and unique destination known for its red soil, stunning beaches, and vibrant culture.
+tel aviv|tel aviv district, israel|old jaffa|spring-fall|walk|explore the narrow alleys and ancient buildings of the historic port city of old jaffa.
+jerusalem|jerusalem district, israel|the western wall|any|walk|experience the spiritual and cultural significance of the western wall in the heart of jerusalem's old city.
+haifa|haifa district, israel|bahai gardens|spring-fall|walk|take a stroll through the stunningly landscaped terraces and fountains of the bahai gardens on the slopes of mount carmel.
+dead sea|judea and samaria area, israel|dead sea salt beach|any|swim|float in the salty waters of the dead sea and soak in the unique natural beauty of this iconic destination.
+eilat|southern district, israel|coral beach nature reserve|fall-spring|snorkel|discover the vibrant coral reefs and colorful marine life of the red sea at coral beach nature reserve in eilat.
+nazareth|northern district, israel|church of the annunciation|any|walk|visit the largest christian church in the middle east and see the grotto where the angel gabriel is said to have appeared to mary.
+beer sheva|southern district, israel|tel beer sheva|any|walk|explore the ancient ruins of tel beer sheva, a unesco world heritage site that dates back to the 4th millennium bce.
+tiberias|northern district, israel|sea of galilee|spring-fall|boat|take a boat tour on the tranquil waters of the sea of galilee and admire the surrounding natural beauty and historical significance.
+caesarea|haifa district, israel|caesarea national park|spring-fall|walk|discover the ancient port city of caesarea, including its roman theater, hippodrome, and impressive archaeological ruins.
+masada|judea and samaria area, israel|masada national park|fall-spring|hike|climb to the top of this unesco world heritage site for panoramic views of the surrounding desert and the dead sea.
+cairo|cairo, egypt|the pyramids of giza|winter|taxi|the most famous tourist attraction in egypt and a must-visit for history lovers
+sharm el-sheikh|south sinai, egypt|naama bay|summer|flight|famous for its clear blue waters and world-renowned coral reefs, perfect for diving and snorkeling
+alexandria|alexandria, egypt|bibliotheca alexandrina|spring|train|a modern library and cultural center built on the site of the ancient library of alexandria
+luxor|luxor, egypt|karnak temple|autumn|river cruise|one of the largest temple complexes in egypt, with impressive columns, statues, and hieroglyphs
+aswan|aswan, egypt|abu simbel temples|winter|bus|two ancient temples relocated and reconstructed to avoid flooding, featuring colossal statues of pharaohs and gods
+dahab|south sinai, egypt|blue hole|summer|camel|a diving spot with a natural underwater sinkhole, also popular for snorkeling and free diving
+el gouna|hurghada, egypt|el gouna beach|spring|car|a resort town with a variety of water sports and activities, including kite surfing and parasailing
+marsa alam|red sea, egypt|wadi el-gemal national park|autumn|boat|a protected area with a diverse ecosystem, including coral reefs, mangroves, and sea turtles
+siwa oasis|matrouh, egypt|shali fortress|winter|4x4|an ancient settlement built on a hill, made of mud and salt, with a panoramic view of the oasis
+white desert|new valley, egypt|white desert national park|spring|private tour|a surreal landscape of chalk rock formations, shaped by wind and erosion over millions of years.
+antananarivo|analamanga, madagascar|routing national park|june to september|hiking|home to the indri lemurs and other unique flora and fauna
+morondava|menabe, madagascar|avenue of the baobabs|april to october|road trip|watch the stunning sunset over the baobabs
+toliara|atolisarana, madagascar|reniala reserve|may to september|hiking|home to the spiny forest and rare wildlife
+ranohira|iharana-betsileo, madagascar|isalo national park|may to september|hiking|explore the natural pools, canyons, and wildlife
+andasibe|ananamanga, madagascar|andisabe national park|september to november|hiking|observe the indri lemurs and other endemic species
+diego-suarez|diana, madagascar|amber mountain national park|may to october|hiking|home to the montagne d'ambre rainforest and scenic views
+fort dauphin|anosy, madagascar|berenty reserve|may to september|wildlife watching|home to the ring-tailed lemurs and sifakas
+moramanga|ananamanga, madagascar|marozevo reserve|september to december|birdwatching|see the colorful madagascar parrots and other endemic species
+antsiranana|diana, madagascar|tsingy rouge park|may to october|trekking|observe the unique rock formations and wildlife
+mahajanga|boeny, madagascar|baie de baly national park|july to september|kayaking|explore the stunning coral reefs and marine life.
+maputo|maputo, mozambique|gorongosa national park|autumn|safari|visit the flooded plains to see the hippos and crocodiles
+inhambane|inhambane, mozambique|tofo beach|summer|beach|snorkel with whale sharks and manta rays
+pemba|cabodelegado, mozambique|quirimbas archipelago|winter|island hopping|relax on secluded beaches and indulge in fresh seafood
+vilanculos|inhambane, mozambique|bazaruto archipelago|spring|diving|explore the vibrant coral reefs and marine life
+niassa|niassa, mozambique|lago niassa|summer|fishing|catch the famous chambo fish and camp on the lake shore
+tete|tete, mozambique|tete bridge|anytime|sightseeing|visit the colonial era railway bridge spanning the zambezi river
+nampula|nampula, mozambique|namuli mountain|winter|hiking|climb to the top for panoramic views of the surrounding landscape
+beira|sofala, mozambique|cathedral of our lady of immaculate conception|anytime|architecture|admire the impressive neo-gothic cathedral
+xai-xai|gaza, mozambique|ponta do ouro|autumn|surfing|ride the waves at one of africa's top surf spots
+manica|manica, mozambique|manica highlands|spring|trekking|explore the scenic mountains and waterfalls.
+madrid|community of madrid, spain|prado museum|any season|solo travel|the prado museum houses an extensive collection of european art.
+barcelona|catalonia, spain|park guell|spring|family travel|the vibrant colors and whimsical designs of park guell make it a must-visit attraction.
+seville|andalusia, spain|plaza de espana|fall|couple travel|the plaza de espana is a stunning example of spanish renaissance revival architecture.
+granada|andalusia, spain|alhambra|summer|group travel|the alhambra is a magnificent fortress-palace with beautiful gardens and stunning views of the city.
+valencia|valencia, spain|city of arts and sciences|any season|solo travel|the city of arts and sciences is a futuristic complex featuring museums, theaters, and an aquarium.
+ibiza|balearic islands, spain|beaches|summer|beach travel|ibiza is known for its beautiful beaches and lively nightlife.
+toledo|castile-la mancha, spain|cathedral|spring|history and culture travel|the cathedral of toledo is a masterpiece of gothic architecture.
+san sebastian|basque country, spain|basque cuisine|any season|food travel|san sebastian is renowned for its delicious basque cuisine, including pintxos (small snacks) and seafood.
+cordoba|andalusia, spain|mezquita|fall|architecture and history travel|the mezquita is a stunning mosque-cathedral that reflects the city's rich history and cultural diversity.
+malaga|andalusia, spain|picasso museum|spring|art and culture travel|the picasso museum in malaga features works by the famous artist and highlights his life and legacy.
+venice|veneto, italy|st. mark's square|spring|solo travel|enjoy the beautiful canals and architecture
+rome|lazio, italy|colosseum|summer|family travel|learn about the history of the roman empire
+florence|tuscany, italy|ponte vecchio|autumn|romantic travel|explore the birthplace of the renaissance
+amalfi|campania, italy|amalfi coast|summer|couple travel|enjoy the stunning views of the mediterranean sea
+milan|lombardy, italy|duomo di milano|winter|solo travel|shop for high-end fashion and explore the city's art scene
+cinque terre|liguria, italy|hiking trails|spring|adventure travel|experience the stunning scenery and coastal trails
+siena|tuscany, italy|palio di siena|summer|cultural travel|attend the famous horse race and enjoy the medieval architecture
+verona|veneto, italy|juliet's balcony|autumn|romantic travel|visit the setting of shakespeare's romeo and juliet
+naples|campania, italy|pompeii|spring|family travel|explore the ruins of an ancient roman city
+bologna|emilia-romagna, italy|food markets|autumn|foodie travel|sample the local cuisine, especially the world-famous pasta dishes.
+berlin|berlin, germany|brandenburg gate|spring|city break|historic landmark and symbol of german unity
+munich|bavaria, germany|neuschwanstein castle|summer|sightseeing|fairy tale castle nestled in the bavarian alps
+cologne|north rhine-westphalia, germany|cologne cathedral|fall|culture and history|impressive gothic cathedral with stunning views
+hamburg|hamburg, germany|christmas market|winter|festive atmosphere|traditional christmas market with delicious food and drinks.
+paris|ile-de-france, france|eiffel tower|spring|solo travel|iconic parisian landmark
+marseille|provence-alpes-cote d'azur, france|calanques national park|summer|hiking|stunning coastal hiking trails
+bordeaux|nouvelle-aquitaine, france|wine tasting|fall|food and wine|famous wine region with delicious cuisine
+strasbourg|grand est, france|christmas market|winter|shopping|magical holiday atmosphere with festive decorations
+stockholm|stockholm county, sweden|old town|spring|walking|the narrow streets and colorful buildings make the old town a charming area to explore on foot.
+gothenburg|vastra gotaland county, sweden|liseberg amusement park|summer|family-friendly|liseberg is a great destination for families, with rides, games, and entertainment options for all ages.
+kiruna|norrbotten county, sweden|aurora sky station|winter|skiing|the aurora sky station is a fantastic spot to see the northern lights, and the ski slopes nearby are also great for winter sports enthusiasts.
+malmo|skane county, sweden|malmo castle|autumn|biking|take a bike tour of malmo and visit the castle, which houses several museums and galleries.
+jamtland|jamtland county, sweden|sarek national park|summer|hiking|sarek national park offers some of the best hiking trails in sweden, with stunning views of mountains, forests, and glaciers.
+uppsala|uppsala county, sweden|uppsala cathedral|spring|historical|visit the uppsala cathedral, one of the largest churches in scandinavia and a stunning example of gothic architecture.
+visby|gotland county, sweden|visby city wall|summer|sightseeing|explore the medieval city of visby and walk along the city wall, which dates back to the 13th century.
+lapland|northern sweden|ice hotel|winter|adventure|stay at the famous ice hotel in lapland and enjoy snowmobiling, dog sledding, and other winter activities.
