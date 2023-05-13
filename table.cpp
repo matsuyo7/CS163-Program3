@@ -32,7 +32,7 @@ int table::hash_function(const char key[])
 	return sum % hash_table_size;
 }
 //Second hash function to try that passes in the key to work with and return a number
-int table::hash_function_2nd(char key[]) const
+int table::hash_function_2nd(const char key[])
 {
 	int sum = 0;
 	int length = strlen(key);
@@ -46,9 +46,9 @@ int table::hash_function_2nd(char key[]) const
 	return sum % hash_table_size;
 }
 //Add a travel item that's passed in as an argument and add it to the hash table
-int table::insert(const client & to_add)
+int table::insert(const travel & to_add, const client & to_key)
 {
-	int index = hash_function(to_add.c_name);
+	int index = hash_function(to_key.c_name);
 	node * temp = new node;
 	if (!temp->trip.copy(to_add))
 	{
@@ -60,14 +60,37 @@ int table::insert(const client & to_add)
 	return 1;
 }
 //Load in information from the external data file
-int table::load()
+int table::load(char file[], load_file & to_load, travel & to_add)
 {
 	ifstream file_in;
-	file_in.open("travel_data.txt");
-	if (!file_in)
+	file_in.open(file);	//open file
+	if (!file_in)	//are we not connected
 		return 0;
+	//prime the pump
+	file_in.get(to_load.l_name, SIZE, '|');
+	file_in.ignore(100, '|');
+	while (file_in && !file_in.eof())
+	{
+		//read the rest
+		file_in.get(to_load.l_country, SIZE, '|');
+		file_in.ignore(100, '|');
+		file_in.get(to_load.l_attract, SIZE, '|');
+		file_in.ignore(100, '|');
+		file_in.get(to_load.l_time, SIZE, '|');
+		file_in.ignore(100, '|');
+		file_in.get(to_load.l_transport, SIZE, '|');
+		file_in.ignore(100, '|');
+		file_in.get(to_load.l_notes, SIZE, '|');
+		file_in.ignore(100, '\n');
+		to_add.create_file(to_load);
 
-
+		//prime the pump
+		file_in.get(to_load.l_name, SIZE, '|');
+		file_in.ignore(100, '|');
+	}
+	file_in.close();
+	return 1;
+}
 //Display all travel information
 int table::display_all() const
 {}
