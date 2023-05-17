@@ -22,7 +22,7 @@ struct client
 	char c_notes[SIZE];	//user input important information to know about
 };
 
-struct load_file
+/*struct load_file
 {
 	char l_name[SIZE];	//load in name of the location
 	char l_country[SIZE];	//load in state and country
@@ -30,7 +30,7 @@ struct load_file
 	char l_time[SIZE];	//load in best time of year
 	char l_transport[SIZE];	//load in how to get there
 	char l_notes[SIZE];	//load in important information to know about
-};
+};*/
 
 class travel
 {
@@ -38,10 +38,11 @@ class travel
 		travel();	//constructor
 		~travel();	//destructor
 		int create(const client & to_copy);	//create information from the client
-		int create_file(const load_file & to_copy);	//create information from the external file
+		//int create_file(const client & to_copy);	//create information from the external file
 		int copy(const travel & to_add);	//copy information to be inserted
 		int display() const;	//display a travel information
-		int retrieve(char match[]) const;	//retrieve travel information from the matching name
+		int find(char match[]) const;	//find a match with the name and return true
+		int retrieve(char match[], travel & find) const;	//retrieve travel information from the matching name
 		int remove(char match[]);	//remove travel information form the matching name
 	private:
 		char * name;	//name of the location
@@ -64,7 +65,7 @@ class table
 		table(int size = 55);	//constructor that will also test the table size
 		~table();	//destructor
 		int insert(const travel & to_add, const client & to_key);	//add a travel item that's passed in as an argument and add it to the hash table
-		int load(char file[], load_file & to_load, travel & to_add);	//load in information from the external data file
+		int load(char file[], client & to_load, travel & to_add);	//load in information from the external data file
 		int display_all() const;	//display all travel information
 		int display_match_name(char match[]);	//display the information from the particular location name match
 		int retrieve_match_name(char match[], travel & find);	//retrieve the information from the particular location name match
