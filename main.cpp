@@ -9,15 +9,16 @@ using namespace std;
 
 //Prototypes
 int menu();
-void get_travel(client & your_trip, travel & add_trip, table & my_table);
+void get_travel(client & your_trip/*, travel & add_trip*/, table & my_table);
 void name_match(char match_name[], table & my_table);
 void retrieve_match(char match_retrieve[], table & my_table, travel & to_retrieve);
-
+void remove_match(char match_remove[], table & my_table);
+void display_all_time(char match_time[], table & my_table);
 
 int main()
 {
 	//Variables
-	travel add_trip, my_trip, to_retrieve;
+	travel add_trip, to_retrieve;
 	table my_table;
 	client your_trip;
 	//load_file my_file;
@@ -25,6 +26,8 @@ int main()
 	int option {0};
 	char match_name[SIZE];
 	char match_retrieve[SIZE];
+	char match_remove[SIZE];
+	char match_time[SIZE];
 
 	//file_name = "travel_data.txt";
 	//my_table.display_all();
@@ -33,7 +36,7 @@ int main()
 		option = menu();
 		if (option == 1)
 		{
-			get_travel(your_trip, add_trip, my_table);
+			get_travel(your_trip/*, add_trip*/, my_table);
 		}
 		if (option == 2)
 		{
@@ -52,9 +55,13 @@ int main()
 			retrieve_match(match_retrieve, my_table, to_retrieve);
 		}
 		if (option == 6)
-		{}
-		if (option == 8)
-		{}
+		{
+			remove_match(match_remove, my_table);
+		}
+		if (option == 7)
+		{
+			display_all_time(match_time, my_table);
+		}
 	} while (option != 8);
 	return 0;
 }
@@ -84,7 +91,7 @@ int menu()
 	return option;
 }
 //Prompt the user for the travel information
-void get_travel(client & your_trip, travel & add_trip, table & my_table)
+void get_travel(client & your_trip/*, travel & add_trip*/, table & my_table)
 {
 	cout << "\nName of the location: ";
 	cin.get(your_trip.c_name, SIZE, '\n');
@@ -94,15 +101,15 @@ void get_travel(client & your_trip, travel & add_trip, table & my_table)
 	cin.ignore(100, '\n');
 	cout << "\nBest thing to do there: ";
 	cin.get(your_trip.c_attract, SIZE, '\n');
-	cin.ignore(SIZE, '\n');
+	cin.ignore(100, '\n');
 	cout << "\nHow to travel to there: ";
 	cin.get(your_trip.c_transport, SIZE, '\n');
 	cin.ignore(100, '\n');
 	cout << "\nImportant notes: ";
 	cin.get(your_trip.c_notes, SIZE, '\n');
 	cin.ignore(100, '\n');
-	add_trip.create(your_trip);
-	if (!my_table.insert(add_trip, your_trip))
+	//add_trip.create(your_trip);
+	if (!my_table.insert(/*add_trip,*/ your_trip))
 		cerr << "\nCouldn't insert" << endl;
 	//add_trip.display();
 }
@@ -125,4 +132,24 @@ void retrieve_match(char match_retrieve[], table & my_table, travel & to_retriev
 		cerr << "\nCouldn't retrieve" << endl;
 	else
 		cout << "\nRetrieved!" << endl;
+}
+//Remove by a matching location name
+void remove_match(char match_remove[], table & my_table)
+{
+	cout << "\nWhat location do you want to remove: ";
+	cin.get(match_remove, SIZE, '\n');
+	cin.ignore(100, '\n');
+	if (!my_table.remove_location(match_remove))
+		cout << "\nCouldn't remove" << endl;
+	else
+		cout << "\nRemoved" << endl;
+}
+//Display all locations with good seasonal times to go
+void display_all_time(char match_time[], table & my_table)
+{
+	cout << "\nWhat season(s) to look for: ";
+	cin.get(match_time, SIZE, '\n');
+	cin.ignore(100, '\n');
+	if (!my_table.display_match_time(match_time))
+		cout << "\nCouldn't display" << endl;
 }

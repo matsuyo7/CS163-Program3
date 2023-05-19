@@ -61,11 +61,11 @@ int table::hash_function_2nd(const char key[])
 	return sum % hash_table_size;
 }
 //Add a travel item that's passed in as an argument and add it to the hash table
-int table::insert(const travel & to_add, const client & to_key)
+int table::insert(/*const travel & to_add,*/ const client & to_key)
 {
 	int index = hash_function(to_key.c_name);
 	node * temp = new node;
-	if (!temp->trip.copy(to_add))
+	if (!temp->trip./*copy*/create(/*to_add*/to_key))
 	{
 		delete temp;
 		return 0;
@@ -97,8 +97,8 @@ int table::load(char file[], client & to_load, travel & to_add)
 		file_in.ignore(100, '|');
 		file_in.get(to_load.c_notes, SIZE, '\n');
 		file_in.ignore(100, '\n');
-		to_add.create(to_load);
-		insert(to_add, to_load);
+		//to_add.create(to_load);
+		insert(/*to_add,*/ to_load);
 
 		//prime the pump
 		file_in.get(to_load.c_name, SIZE, '|');
@@ -154,8 +154,52 @@ int table::retrieve_match_name(char match[], travel & find)
 	return found;
 }
 //Remove by the locatin name
-int table::remove(char location[]) const
-{}
-//Display by the attraction match
-int table::display_match_attract(char attraction[]) const
-{}
+int table::remove_location(char location[])
+{
+	int index = hash_function(location);
+	node * current = hash_table[index];
+	node * previous = nullptr;
+	bool found = false;
+	while (current)
+	{
+		if (current->trip.find(location))
+		{
+			if (!hash_table[index]->next)
+			{
+				hash_table[index] = current->next;
+				delete current;
+				current = hash_table[index];
+			}
+			else
+			{
+				previous->next = current->next;
+				delete current;
+				current = previous;
+			}
+			found = true;
+		}
+		else
+		{
+			previous = current;
+			current = current->next;
+		}
+	}
+	return found;
+}
+//Display by the seasonal match
+int table::display_match_time(char season[]) const
+{
+	for (int i = 0; i < hash_table_size; ++i)
+	{
+		node * current = hash_table[i];
+		while (current)
+		{
+			if (current->trip.find(season))
+			{
+				current->trip.display();
+			}
+			current = current->next;
+		}
+	}
+	return 1;
+}

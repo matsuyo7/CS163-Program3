@@ -14,12 +14,12 @@ const int SIZE {200};	//constant size for static arrays
 
 struct client
 {
-	char c_name[SIZE];	//user input name of the location
-	char c_country[SIZE];	//user input state and country
-	char c_attract[SIZE];	//user input attraction
-	char c_time[SIZE];	//user input best time of year
-	char c_transport[SIZE];	//user input how to get there
-	char c_notes[SIZE];	//user input important information to know about
+	char c_name[SIZE] {};	//user input name of the location
+	char c_country[SIZE] {};	//user input state and country
+	char c_attract[SIZE] {};	//user input attraction
+	char c_time[SIZE] {};	//user input best time of year
+	char c_transport[SIZE] {};	//user input how to get there
+	char c_notes[SIZE] {};	//user input important information to know about
 };
 
 /*struct load_file
@@ -43,7 +43,8 @@ class travel
 		int display() const;	//display a travel information
 		int find(char match[]) const;	//find a match with the name and return true
 		int retrieve(char match[], travel & find) const;	//retrieve travel information from the matching name
-		int remove(char match[]);	//remove travel information form the matching name
+		//int remove(char match[]);	//remove travel information form the matching name
+		//int clean();	//to remove any information already stored so that new information can be stored
 	private:
 		char * name;	//name of the location
 		char * country;	//state/city and country
@@ -62,15 +63,15 @@ struct node
 class table
 {
 	public:
-		table(int size = 55);	//constructor that will also test the table size
+		table(int size = 101);	//constructor that will also test the table size
 		~table();	//destructor
-		int insert(const travel & to_add, const client & to_key);	//add a travel item that's passed in as an argument and add it to the hash table
+		int insert(/*const travel & to_add,*/ const client & to_key);	//add a travel item that's passed in as an argument and add it to the hash table
 		int load(char file[], client & to_load, travel & to_add);	//load in information from the external data file
 		int display_all() const;	//display all travel information
 		int display_match_name(char match[]);	//display the information from the particular location name match
 		int retrieve_match_name(char match[], travel & find);	//retrieve the information from the particular location name match
-		int remove(char location[]) const;	//remove by the locatin name
-		int display_match_attract(char attraction[]) const;	//display by the attraction match
+		int remove_location(char location[]);	//remove by the locatin name
+		int display_match_time(char season[]) const;	//display by the seasonal match
 	private:
 		node ** hash_table;	//dynamically alocated array of head pointers
 		int hash_table_size;	//size of the hash table
