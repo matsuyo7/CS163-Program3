@@ -1,7 +1,7 @@
 #include "table.h"
 using namespace std;
 
-//Molina Nhoung, CS163, 5/11/23, Program 3
+//Molina Nhoung, CS163, 5/19/23, Program 3
 //The purpose of this file is to implement the hash table functions
 //using the travel class that would be dealing with the data. This will
 //test out two different hash functions to get a better understanding of
@@ -126,7 +126,7 @@ int table::display_all() const
 int table::display_match_name(char match[])
 {
 	int index = hash_function(match);
-	node * current = hash_table[index];
+	/*node * current = hash_table[index];
 	bool found = false;
 	while (current)
 	{
@@ -137,7 +137,20 @@ int table::display_match_name(char match[])
 		}
 		current = current->next;
 	}
-	return found;
+	return found;*/
+	return display_match_name(hash_table[index], match);
+}
+//Recursive call for display match name
+int table::display_match_name(node * head, char match[])
+{
+	if (!head)
+		return 0;
+	if (head->trip.find(match))
+	{
+		head->trip.display();
+		return 1;
+	}
+	return display_match_name(head->next, match);
 }
 //Retrieve the information from the particular location name match
 int table::retrieve_match_name(char match[], travel & find)
@@ -153,7 +166,7 @@ int table::retrieve_match_name(char match[], travel & find)
 	}
 	return found;
 }
-//Remove by the locatin name
+//Remove by the location name
 int table::remove_location(char location[])
 {
 	int index = hash_function(location);

@@ -9,7 +9,7 @@ using namespace std;
 
 //Prototypes
 int menu();
-void get_travel(client & your_trip/*, travel & add_trip*/, table & my_table);
+void get_travel(client & your_trip, table & my_table);
 void name_match(char match_name[], table & my_table);
 void retrieve_match(char match_retrieve[], table & my_table, travel & to_retrieve);
 void remove_match(char match_remove[], table & my_table);
@@ -21,7 +21,6 @@ int main()
 	travel add_trip, to_retrieve;
 	table my_table;
 	client your_trip;
-	//load_file my_file;
 	char file_name[SIZE] = "travel_data.txt";
 	int option {0};
 	char match_name[SIZE];
@@ -29,14 +28,12 @@ int main()
 	char match_remove[SIZE];
 	char match_time[SIZE];
 
-	//file_name = "travel_data.txt";
-	//my_table.display_all();
 	do
 	{
 		option = menu();
 		if (option == 1)
 		{
-			get_travel(your_trip/*, add_trip*/, my_table);
+			get_travel(your_trip, my_table);
 		}
 		if (option == 2)
 		{
@@ -91,7 +88,7 @@ int menu()
 	return option;
 }
 //Prompt the user for the travel information
-void get_travel(client & your_trip/*, travel & add_trip*/, table & my_table)
+void get_travel(client & your_trip, table & my_table)
 {
 	cout << "\nName of the location: ";
 	cin.get(your_trip.c_name, SIZE, '\n');
@@ -102,16 +99,17 @@ void get_travel(client & your_trip/*, travel & add_trip*/, table & my_table)
 	cout << "\nBest thing to do there: ";
 	cin.get(your_trip.c_attract, SIZE, '\n');
 	cin.ignore(100, '\n');
+	cout << "\nBest time/season to go there: ";
+	cin.get(your_trip.c_time, SIZE, '\n');
+	cin.ignore(100, '\n');
 	cout << "\nHow to travel to there: ";
 	cin.get(your_trip.c_transport, SIZE, '\n');
 	cin.ignore(100, '\n');
 	cout << "\nImportant notes: ";
 	cin.get(your_trip.c_notes, SIZE, '\n');
 	cin.ignore(100, '\n');
-	//add_trip.create(your_trip);
-	if (!my_table.insert(/*add_trip,*/ your_trip))
+	if (!my_table.insert(your_trip))
 		cerr << "\nCouldn't insert" << endl;
-	//add_trip.display();
 }
 //Display a particular match by name
 void name_match(char match_name[], table & my_table)
@@ -131,7 +129,7 @@ void retrieve_match(char match_retrieve[], table & my_table, travel & to_retriev
 	if (!my_table.retrieve_match_name(match_retrieve, to_retrieve))
 		cerr << "\nCouldn't retrieve" << endl;
 	else
-		cout << "\nRetrieved!" << endl;
+		to_retrieve.display();
 }
 //Remove by a matching location name
 void remove_match(char match_remove[], table & my_table)
